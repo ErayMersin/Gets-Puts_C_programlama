@@ -1,0 +1,3 @@
+﻿  Kaynak.c
+C:\Users\eray\source\repos\Gets-Puts C programlama\Gets-Puts C programlama\Kaynak.c(9,2): warning C4013: 'gets' tanımsız; int döndüren extern olduğu varsayılıyor
+  Gets-Puts C programlama.vcxproj -> C:\Users\eray\source\repos\Gets-Puts C programlama\x64\Debug\Gets-Puts C programlama.exe
